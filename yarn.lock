@@ -6445,15 +6445,12 @@
     "@babel/runtime" "^7.5.4"
     "@types/testing-library__react-hooks" "^3.4.0"
 
-"@testing-library/react-hooks@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.npmjs.org/@testing-library/react-hooks/-/react-hooks-7.0.2.tgz#3388d07f562d91e7f2431a4a21b5186062ecfee0"
-  integrity sha512-dYxpz8u9m4q1TuzfcUApqi8iFfR6R0FaMbr2hjZJy1uC8z+bO/K4v8Gs9eogGKYQop7QsrBTFkv/BCF7MzD2Cg==
+"@testing-library/react-hooks@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.npmjs.org/@testing-library/react-hooks/-/react-hooks-8.0.1.tgz#0924bbd5b55e0c0c0502d1754657ada66947ca12"
+  integrity sha512-Aqhl2IVmLt8IovEVarNDFuJDVWVvhnr9/GCU6UUnrYXwgDFF9h2L2o2P9KBni1AST5sT6riAyoukFLyjQUgD/g==
   dependencies:
     "@babel/runtime" "^7.12.5"
-    "@types/react" ">=16.9.0"
-    "@types/react-dom" ">=16.9.0"
-    "@types/react-test-renderer" ">=16.9.0"
     react-error-boundary "^3.1.0"
 
 "@testing-library/react@^11.2.5":
@@ -7486,7 +7483,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-dom@*", "@types/react-dom@>=16.9.0":
+"@types/react-dom@*":
   version "17.0.9"
   resolved "https://registry.npmjs.org/@types/react-dom/-/react-dom-17.0.9.tgz#441a981da9d7be117042e1a6fd3dac4b30f55add"
   integrity sha512-wIvGxLfgpVDSAMH5utdL9Ngm5Owu0VsGmldro3ORLXV8CShrL8awVj06NuEXFQ5xyaYfdca7Sgbk/50Ri1GdPg==
@@ -7539,7 +7536,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-test-renderer@*", "@types/react-test-renderer@>=16.9.0":
+"@types/react-test-renderer@*":
   version "16.9.2"
   resolved "https://registry.npmjs.org/@types/react-test-renderer/-/react-test-renderer-16.9.2.tgz#e1c408831e8183e5ad748fdece02214a7c2ab6c5"
   integrity sha512-4eJr1JFLIAlWhzDkBCkhrOIWOvOxcCAfQh+jiKg7l/nNZcCIL2MHl2dZhogIFKyHzedVWHaVP1Yydq/Ruu4agw==
@@ -7567,7 +7564,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@>=16.9.0":
+"@types/react@*":
   version "16.14.18"
   resolved "https://registry.npmjs.org/@types/react/-/react-16.14.18.tgz#b2bcea05ee244fde92d409f91bd888ca8e54b20f"
   integrity sha512-eeyqd1mqoG43mI0TvNKy9QNf1Tjz3DEOsRP3rlPo35OeMIt05I+v9RR8ZvL2GuYZeF2WAcLXJZMzu6zdz3VbtQ==
@@ -28865,9 +28862,9 @@ write-pkg@^4.0.0:
     write-json-file "^3.2.0"
 
 ws@7.4.5, ws@^7.4.6:
-  version "7.5.5"
-  resolved "https://registry.npmjs.org/ws/-/ws-7.5.5.tgz#8b4bc4af518cfabd0473ae4f99144287b33eb881"
-  integrity sha512-BAkMFcAzl8as1G/hArkxOxq3G7pjUqQ3gzYbLL0/5zNkph70e+lCoxBGnm6AW1+/aiNeV4fnKqZ8m4GZewmH2w==
+  version "7.5.8"
+  resolved "https://registry.npmjs.org/ws/-/ws-7.5.8.tgz#ac2729881ab9e7cbaf8787fe3469a48c5c7f636a"
+  integrity sha512-ri1Id1WinAX5Jqn9HejiGb8crfRio0Qgu8+MtL36rlTA6RLsMdWt1Az/19A2Qij6uSHUMphEFaTKa4WG+UNHNw==
 
 ws@^5.2.0:
   version "5.2.3"
